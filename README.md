@@ -2,7 +2,7 @@
 
 This is basically a reference example application that uses:
 
-* [Jasmine 1.1.0](https://github.com/pivotal/jasmine/downloads);
+* [Jasmine 1.3.1](https://github.com/pivotal/jasmine/downloads);
 * [RequireJS 2.1.9](http://requirejs.org/docs/download.html);
 * [RequireJS PageLoad Plugin](http://requirejs.org/docs/api.html#pageload)
 * [PhantomJS 1.9.2](http://phantomjs.org/)
