@@ -126,8 +126,8 @@ Pre-requisites:
 * Installing PhantomJS
 * A URL to our Jasmine test suite
 * A script that loads our URL and parses the results.
-    ** We use phantomjs-test-runner.js if the Javascripts are AMD complaint (like in our project), else
-    ** We use run-jasmine.js
+    * We use phantomjs-test-runner.js if the Javascripts are AMD complaint (like in our project), else
+    * We use run-jasmine.js
 
 ```bash
 $ phantomjs /path/to/run-jasmine.js http://localhost/js/test/unit/
